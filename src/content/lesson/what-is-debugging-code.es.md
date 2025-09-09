@@ -68,7 +68,7 @@ Depurar el código de back-end se puede dividir en 4 grupos principales:
 
 Depurar se vuelve más desafiante a medida que tu aplicación crece y tiene más piezas que se conectan. Por esta razón, es imperativo ejecutar tu código casi cada vez que cambias algo (recarga rápida) en lugar de esperar hasta que hayas hecho muchos cambios. Recordar el último cambio que hiciste en tu código antes de que apareciera el error te da mucha ventaja.
 
-> 😎 Consejo profesional: ¿En general, cuál fue la línea de código que actualizaste por última vez? ¿Estaba en el front-end? ¿O en el back-end?
+> 😎 Consejo profesional: En general,  ¿cuál fue la línea de código que actualizaste por última vez? ¿Estaba en el front-end? ¿O en el back-end?
 
 Voy a suponer lo peor: no tienes idea de cuándo apareció el error por primera vez y has hecho muchos cambios desde la última vez que ejecutaste tu aplicación. Estas son las pistas que tienes para comenzar a depurar:
 
